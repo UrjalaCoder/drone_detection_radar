@@ -1,0 +1,29 @@
+numpy
+scipy
+matplotlib
+scikit-learn
+jupyterlab
+notebook
+ipywidgets
+tqdm
+
+# For faster FFTs (optional but nice):
+pyfftw
+
+# For spectrograms, signal processing
+librosa
+
+# For ML models (if you want to add deep learning later):
+torch
+torchvision
+torchaudio
+# or alternatively:
+# tensorflow
+# keras
+
+# For ML visualization:
+seaborn
+
+# For possible radar datasets (deepuav etc)
+h5py
+pandas
